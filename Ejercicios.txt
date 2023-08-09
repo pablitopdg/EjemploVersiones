@@ -1,3 +1,3 @@
 Ejercicio numero 1-paso 4"realizar cambios"
 colocar cambios
-cambio N°2 desde github.com a github desktop.
+cambio N°2 desde github.com a github desktop
